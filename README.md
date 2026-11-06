@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rufus 👋
 
-<!--
-**rufusraju/rufusraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Intelligence student at **Algonquin College** (Business Intelligence Systems Infrastructure program), moving into data after a career in fiber optics and optical manufacturing.
 
-Here are some ideas to get you started:
+📍 Ottawa, ON  
+🎯 Currently seeking **co-op opportunities in data / BI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Databases:** SQL Server, T-SQL, database security (users, roles, permissions)
+- **Analytics:** Power BI, Python (pandas), machine learning fundamentals
+- **Background:** B.Sc. Physics · Photonics Engineering Technician Diploma (Niagara College)
+- **Industry experience:** fiber optics, thin-film coating, optical assembly
+
+## 📂 What I'm working on
+- SQL Server security & database analytics labs
+- Machine learning group project on Toronto KSI collision data
+- Movie sales analysis team BI project
+
+*Projects will be added here as I upload them.*
